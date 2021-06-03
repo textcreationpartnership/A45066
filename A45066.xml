@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Protestant inhabitants of the counties of Antrim, Downe, Tyrone, &amp;c, part of the province of Vlster, in the kingdome of Ireland, concerning bishops expressed in thirtie one heads of grievances by reason of their over-ruling lordly power : as it was presented to the right honourable assembly, the knights, citizens and burgesses of the House of Commons in this present Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45066</idno><idno type="EEBO-CITATION">12630231</idno>
+  <idno type="VID">64730</idno>
+  <idno type="EEBO-PROQUEST">2248564226</idno>
+  
+            <idno type="STC">Wing H3573</idno>
+            <idno type="STC">ESTC R2704</idno>
+            <idno type="OCLC">12630231</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64730)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E148, no 2, 2148:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Protestant inhabitants of the counties of Antrim, Downe, Tyrone, &amp;c, part of the province of Vlster, in the kingdome of Ireland, concerning bishops expressed in thirtie one heads of grievances by reason of their over-ruling lordly power : as it was presented to the right honourable assembly, the knights, citizens and burgesses of the House of Commons in this present Parliament.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item at 2148:8 identified as H3574A (entry cancelled?)</note>
+                  <note>Reproduction of originals in: Thomason Collection, British Library and Bodleian Library.</note>
+                  <note>An imperfect copy (t.p. lacking) is also found at 238:E.59[3] bound following "The Christians incouragement earnestly to contend for Christ his gospell ... by J. Ward ... London, I. Hancock, 1643"</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Ireland --  Bishops --  Temporal power.</term>
+               <term type="geographic_name">Ireland --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64730:1"/>
+            <p>THE HUMBLE PETITION OF THE PROTESTANT INHABITANTS OF the Counties of <hi>Antrim, Downe, Ty<g ref="char:EOLhyphen"/>rone,</hi> &amp;c. part of the Province of <hi>Vlster</hi> in the Kingdome of <hi>Ireland</hi> con<g ref="char:EOLhyphen"/>cerning Bishops.</p>
+            <p>Expressed in thirtie one heads of Grievances, by reason of their Over<g ref="char:EOLhyphen"/>ruling Lordly power.</p>
+            <p>As it was Presented to the Right Honoura<g ref="char:EOLhyphen"/>ble Assembly, the Knights, Citizens and Burgesses, of the House of Commons in this present Pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liament.</p>
+            <p>And accepted of that Honourable House.</p>
+            <p>LONDON, Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:64730:2"/>
+            <pb n="1" facs="tcp:64730:2"/>
+            <head>The Humble Petition of the Pro<g ref="char:EOLhyphen"/>testant Inhabitants of the Counties of <hi>An<g ref="char:EOLhyphen"/>trim Downe, Tyrone,</hi> &amp;c. part of the Province of <hi>Ʋlster,</hi> in the Kingdome of <hi>Ireland.</hi> As it was humbly Presented to the Right Honourable Assembly of Knights, Citi<g ref="char:EOLhyphen"/>zens, and Burgesses in this present Parliament. And accepted of that Honou<g ref="char:EOLhyphen"/>rable House.</head>
+            <p>Your Petitioners,<lb/>
+               <seg rend="decorInit">H</seg>Umbly representeth unto your grave wisedomes, and juditious conside<g ref="char:EOLhyphen"/>rations, that your Petitioners ha<g ref="char:EOLhyphen"/>ving translated themselves out of several parts of his Majesties king<g ref="char:EOLhyphen"/>domes of <hi>England</hi> and <hi>Scotland,</hi> to promote the infant Plantation of <hi>Ireland,</hi> wherein your Pe<g ref="char:EOLhyphen"/>titioners by their great labour and industry, so much contribute to the settlement of that King<g ref="char:EOLhyphen"/>dome: As they were in a most hopefull way of a comfortable abode, and when they expected to reape the fruit of their great and long labour, partly by the cruell severitie and arbitrarie pro<g ref="char:EOLhyphen"/>ceedings, of the civill Magistrate, but principal<g ref="char:EOLhyphen"/>ly through the unblest way of the Prelacy with their faction, our soules are starved, our estates undone, our families impoverished, and many
+<pb n="2" facs="tcp:64730:3"/>lives among us, cut off and destroyed;</p>
+            <p>The Prelates, (whose pretended authoritie, though by some published to be by divine right, as wee humbly conceive is directly against the same) have by their Canons of late, their Fines, fees, and Imprisonments at their pleasure; their Silencing, Suspending, Banishing, and Excom<g ref="char:EOLhyphen"/>municating of our learned and conscionable Mi<g ref="char:EOLhyphen"/>nisters, their obtruding upon us, ignorant erro<g ref="char:EOLhyphen"/>neous, and prophane persons to be our Teachers, their censuring of many hundreds even to Ex<g ref="char:EOLhyphen"/>communication, for matters acknowledged by all to be indifferent and not necessary, their favou<g ref="char:EOLhyphen"/>ring Popery (in this Kingdome a double fault) their persecuting puritie, and indevouring to bring all to a livelesse formalitie, divers of them being notorious incendiaries of the unquietnesse and unsettled estate betweene these Kingdomes, with many the like, too tedious to relate, as more fully in our insuing Grievances doth appeare. These our cruell Task-masters have made of us, who were once a people, to become (as it were) no people, an astonishment to our selves, the ob<g ref="char:EOLhyphen"/>ject of pittie and amazement to others, and hope<g ref="char:EOLhyphen"/>lesse of remedie, unlesse hee with whom are bo<g ref="char:EOLhyphen"/>wels of compassion worke in you an heart to in<g ref="char:EOLhyphen"/>terpose for your Petitioners reliefe.</p>
+            <p>They therefore most humbly pray, that this unlawfull Hierarchicall government with all their appendices may bee utterly extir<g ref="char:EOLhyphen"/>pate, such course laid downe, as to your great wisdomes shall seeme meete, for repa<g ref="char:EOLhyphen"/>ration
+<pb n="3" facs="tcp:64730:3"/>in some measure of our unutterable damages sustained by the parties thus injuri<g ref="char:EOLhyphen"/>ously grieved; your Petitioners settled in a way, whereby their persecuted Ministers may have leave to returne from exile, and bee freed from the unjust censure imposed on them, and an open doore continued unto us for provision of a powerfull and able Ministry, the onely best way to promote Plantation, and settle the king<g ref="char:EOLhyphen"/>dome in the profession and practise of true reli<g ref="char:EOLhyphen"/>gion; which as it is the earnest expectation, so it shall be the daily prayer of many thousands your Petitioners, who will ever intreat the Lord for your direction herein, and in all other your weighty and important affaires, as be<g ref="char:EOLhyphen"/>commeth your poore Petitioners, &amp;c.</p>
+            <div type="list_of_grievances">
+               <list>
+                  <head>A particular of manifold Evils, and heavy pressures caused, and occasionned by the Prelacie, and their dependants.</head>
+                  <item>1 BEfore they had so much as a pretended Canon, for their warrant the Prelates urged their Ceremonies with such vehemency, that divers of our most learned and painfull Mi<g ref="char:EOLhyphen"/>nisters for not obeying them were Silenced, and many of us for the like oppressed in their Courts.</item>
+                  <item>2 In the yeare 1634. they made such Canons and constitutions Ecclesiasticall, as injoyned many corruptions in the worship of God, and govern<g ref="char:EOLhyphen"/>ment of the Church, which exceedingly retar<g ref="char:EOLhyphen"/>ded the worke of reformation to the true Prote<g ref="char:EOLhyphen"/>stant
+<pb n="4" facs="tcp:64730:4"/>Religion, animated Papists, and made way for divers popish superstitions.</item>
+                  <item>3 Our most painfull, godly, and learned Mini<g ref="char:EOLhyphen"/>sters were by the Bishops and their Commissaries silenced and deprived for not Subscribing and Conforming to the said unlawfull Canons; yea, through the hotnesse of their persecution forced to flee the Land, and afterwards Excommunica<g ref="char:EOLhyphen"/>ted, to the danger of all, and losse of some of their lives.</item>
+                  <item>4 In their places others were obtruded, not onely ignorant, lazy, and lukewarme, but many of them unsound in doctrine, prophane in life, and cruell in persecution.</item>
+                  <item>5 Many, though sufficiently furnisbed, were not admitted to the ministery, onely for not swal<g ref="char:EOLhyphen"/>lowing downe their groundlesse innovations, yea some, though conforme, yet for strictnesse in life, were likewise kept out.</item>
+                  <item>6 Good and painfull Ministers are not suffe<g ref="char:EOLhyphen"/>red to exercise that function which God hath cal<g ref="char:EOLhyphen"/>led them unto, nor suffered to enjoy and living, whereas the Bishops doe hold by <hi>Commendum</hi> many livings, besides those proper to their Bi<g ref="char:EOLhyphen"/>shopricks; and doe conferre livings upon their children and retainers, <hi>studendi gratiâ</hi> (as is pre<g ref="char:EOLhyphen"/>tended) and divers Benefices, as foure, five, sixe, or more upon their favourites; Hence.</item>
+                  <item>7 The cure of soules are committed to hyre<g ref="char:EOLhyphen"/>lings, who receive 5.6, 8. or 10. pounds by the yeare for their cures; Divers of which are put to<g ref="char:EOLhyphen"/>gether to the charge of some illiterate curate, by
+<pb n="5" facs="tcp:64730:4"/>which meanes, the people perish for want of food, though the Parson or Vicar, through connivance of the Bishop is utterly non resident, and by each one of the many Benefices he injoyeth, hath a competent allowance for a moderately minded man, to maintaine himselfe and family upon.</item>
+                  <item>8. Whereas the Bishops should give all good example, by painfull preaching and holy conver<g ref="char:EOLhyphen"/>sation, they preach very rarely themselves; and like these in the Gospell, who will neither enter themselves, nor suffer others to enter, they have supprest divers others from preaching, both on the afternoone on the Lords day, and in many places where weekly Lectures were maintained, either by the free-will of the Minister, or cost of the people, they have utterly forbidden the same, and showne all manner of discountenance to those who were forward therein, so that a Lectu<g ref="char:EOLhyphen"/>ring Minister appeared before them, under more prejudice then a popish Priest, or undermining Iesuite;</item>
+                  <item>9 Left those who could not bee admitted into the ministery, undertaking to teach Schoole, should there lay impressions of piety and good learning, they urge on the very Schoolemasters a subscription beyond what is enjoyn'd by their owne Canon, and punish by Excommunication, and otherwise the refusers thereof; So as the Schooles formerly much frequented, are now ut<g ref="char:EOLhyphen"/>terly desolate, to the spoyle of youth and pro<g ref="char:EOLhyphen"/>moting of prophanenesse and ignorance.</item>
+                  <item>10 Thus whiles they proceed so severely and
+<pb n="6" facs="tcp:64730:5"/>uniustly in punishing the refusers to their unlaw<g ref="char:EOLhyphen"/>full commands, though otherwise never so honest and able men, they favour popery to the continu<g ref="char:EOLhyphen"/>ance, and great increase thereof, Hence,</item>
+                  <item>11 Popish titulary Bishops are by them winked at in the exercise of jurisdiction from Forraine power; Masse priests are frequent, and pretend a title to every parish in the Kingdome, Masses pub<g ref="char:EOLhyphen"/>likely celebrated without controlement, to the great griefe of Gods people, and increase of ido<g ref="char:EOLhyphen"/>latry and superstition.</item>
+                  <item>12 They permit Frieries and Nunneries to bee within their Diocesses, whereby they continue and increase of late in many places, yea divers of them suffered to remaine in the very places where some of the Bishops have their speciall residence.</item>
+                  <item>13 In many places of the Land where Prote<g ref="char:EOLhyphen"/>stants are forbidden and restrain'd, Papists are permitted to keepe Schooles, unto some whereof such multitudes of children and young men doe resort, teaching therein not onely the tongues, but likewise the liberall Arts and Sciences.</item>
+                  <item>14 They set forth and suffer to bee published wicked Libells and ungodly Pamphlets, tending to sedition, faction, and disunion of the Brittish Inhabitants, such as <hi>Examen conjurationis Scoticae, Lysimachus, Nicanor,</hi> &amp;c. And in their Sermons, Prayers, and ordinary Table-talke, divers of the Bishops in matters quite besides their Calling, have not desisted to rayle, curse, and most bitterly inveigh against the Kingdome of <hi>Scotland,</hi> and
+<pb n="7" facs="tcp:64730:5"/>all their proceedings labouring to make them odi<g ref="char:EOLhyphen"/>ous, thereby proving themselves firebrands of se<g ref="char:EOLhyphen"/>dition betweene the two Nations; yea, proclai<g ref="char:EOLhyphen"/>ming their prophannesse by drinking healths to the confusion of that Nation.</item>
+                  <item>15 The most learned and seemingly mode<g ref="char:EOLhyphen"/>rate and pious of the prelates, publikely in Ser<g ref="char:EOLhyphen"/>mons at <hi>Dublin,</hi> exclaimed against, and condem<g ref="char:EOLhyphen"/>ned the Scottish Covenant and Religion profest in that Kingdome with most invective tearmes; And in the Starre-chamber in <hi>Dublin,</hi> at the cen<g ref="char:EOLhyphen"/>sure of <hi>Henry Stewart</hi> Esquire, his Wife and two Daughters, and <hi>Iames Gray,</hi> for refusing to take an oath, for which there was no other ground then the Earle of <hi>Straffords</hi> command, which was against the Covenant of <hi>Scotland,</hi> uttered these words, <q>
+                        <hi>These people with <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> doe withstand the ordinance of God, and therefore I leave them to the judgement of <hi>Corah, Dathan,</hi> and <hi>Abiram.</hi>
+                        </hi>
+                     </q>
+                  </item>
+                  <item>16 They have frequently made Symonicall pactions and bargaines in the conferring of Be<g ref="char:EOLhyphen"/>nefices, and ordinarily permit Ministers to ex<g ref="char:EOLhyphen"/>change their livings, thereby to nullifie Leases of tithes, which the former incumbent Ministers have let at certaine rates.</item>
+                  <item>17 The Prelates have usually appointed such men to be their Commissaries, Officials, and Re<g ref="char:EOLhyphen"/>gisters, who altogether neglecting the punishment of vices cognizable in their Courts looke onely to their owne gaine; Hence</item>
+                  <item>18 Though they pretend themselves the ad<g ref="char:EOLhyphen"/>vancers
+<pb n="8" facs="tcp:64730:6"/>of vertue, and punishers of vice, yet they usually without further satisfaction absolve the most scandalous persons for a summe of money, and often question not at all such from whom they privately before hand receive such a summe, which is a cause that many wickednesses doe more and more abound.</item>
+                  <item>20 If any bee presented by their Apparitors (who are usually Papists) if it bee but for non<g ref="char:EOLhyphen"/>paiment of the Clerkes groat, or not observing some one of their most frivolous injunctions; yea, though the party presented bee not found culpa<g ref="char:EOLhyphen"/>ble, yet they require most excessive and unjust fees; And if their demands bee not satisfied, (though never so great poverty might plead for mercy) they presently proceed to the censure of excommunication, thus vainely and blasphemous<g ref="char:EOLhyphen"/>ly abusing the high ordinance of God, so many hundreds of us remaine under that censure, and multitudes constrained to run out of the Land, to the undoing of them and theirs.</item>
+                  <item>21 The Prelats that they might manage <hi>Peters</hi> sword aswell as his keyes have some of them pro<g ref="char:EOLhyphen"/>cured that most unlawfull Writ of assistance, whereby his Majesties Officers and Ministers are required to yeeld assistance unto the Bishop his Officiall, or any deputed by him; which Writ is by their Officers most notoriously abused, and many times put into the hands of their Appari<g ref="char:EOLhyphen"/>tours, who under colour thereof apprehend ho<g ref="char:EOLhyphen"/>nest men and women, casting them into prison, untill they be forced to free themselves by an hea<g ref="char:EOLhyphen"/>vy composition.</item>
+                  <pb n="9" facs="tcp:64730:6"/>
+                  <item> 21 They charge Churchwardens with Arti<g ref="char:EOLhyphen"/>cles farre beyond their understanding, to every particular whereof, if they refuse to answer or present, then are they bound to answer for it at Councell table, or high Commission court, or both, and though there acq<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itted, yet no remedy left them for their great damages.</item>
+                  <item>22 They force Churchwardens to attend all their visitation and circular Courts; And there, for their Articles, Oathes, Admissions, and Dis<g ref="char:EOLhyphen"/>charges, they make them pay most excessive and undue fees, never before practised or required.</item>
+                  <item>23 The communications for penance, which either should not be at all, or if exacted, then set apart for the poore, and other pious uses com<g ref="char:EOLhyphen"/>meth either to the Prelates kitchin, and Commis<g ref="char:EOLhyphen"/>saries purse, or both;</item>
+                  <item>24 The Prelates and their faction, as they in<g ref="char:EOLhyphen"/>herite then superstition of the Payacy, so of late they exact with all severity the absolute customes of S. <hi>Mary gallous,</hi> Mortuaries, Portions, <hi>&amp;c.</hi> which as they were given by superstition and used to Idolatry, so now they are taken by oppression and applied to riotousnesse.</item>
+                  <item>25 They have also constantly practised and suffered, the buying and selling of the Sacraments, which is an heavy burden; And where the poore have not to pay the Minister and Clerkes fees, they will not marry them, nor suffer their dead to be buried.</item>
+                  <item>26 In the high Commission court against all law and equitie, they sit as Iudges in their owne
+<pb n="10" facs="tcp:64730:7"/>cause, and take Cognizance of the highest and smallest matters, going therein without controll, Hence</item>
+                  <item>27 In the said Court they usurpe with an high hand the judicature of civill causes, impose Fines, beyond all bounds, and imprison at their plea<g ref="char:EOLhyphen"/>sure, whereby many have beene utterly undone.</item>
+                  <item>28 They proceed in the said Court, by way of most cruell and lawlesse inquisition, not onely into mens actions and words, but reaching even to their very thoughts, in imposing that most un<g ref="char:EOLhyphen"/>lawfull oath <hi>Ex officio,</hi> to force to accuse, not onely others, but likewise their owne selves, con<g ref="char:EOLhyphen"/>trary to law, and the very maximees of nature; And if any refuse to take this oath, then are they imprisoned, and fined beyond measure, to the ru<g ref="char:EOLhyphen"/>ine of all that fall under the weight of their in<g ref="char:EOLhyphen"/>dignation.</item>
+                  <item>29 Divers of the Prelates did joyntly frame and wickedly contrive with the Earle of <hi>Straf<g ref="char:EOLhyphen"/>ford,</hi> that most lawlesse and scandalous oath im<g ref="char:EOLhyphen"/>posed upon the Scottish-Brittish among us, who were Protestants, for receiving all commands in<g ref="char:EOLhyphen"/>definitely; And some of the Prelates were the occasion, that women and maids should be forced thereunto; Hence Commissions issuing to all pla<g ref="char:EOLhyphen"/>ces for the exacting of it, they were persecuted with so much rigour, that very many as if they had beene traytours in the highest degree, were searched for, apprehended, examined, reviled, threatned, imprisoned, fettered together by threes and foures in Iron yoakes, some in chaines car<g ref="char:EOLhyphen"/>ried
+<pb n="11" facs="tcp:64730:7"/>up to <hi>Dublin,</hi> in Starre-chamber fined in thousands beyond abilitie, and condemned to perpetuall imprisonment; Divers poore women but two dayes before delivery of children were apprehended, threatned, and terrified; others of them two or three dayes after child-birth, so narrowly searched for, that they were faine to flee out of all harbour, into woods, mountaines, caves, and corne-fields, and many dayes and nights together absent themselves, to the impay<g ref="char:EOLhyphen"/>ring of the health of very many, the death of di<g ref="char:EOLhyphen"/>vers, and losse of their goods, which the enemy at their pleasure made havocke of. These, with many more unexpressible, have beene the wofull effects of the Oath drawne up by advice of the Prelates, and so unjustly prest by authority of the Earle of <hi>Strafford.</hi>
+                  </item>
+                  <item>30 The Prelates with their faction have beene injurious, not onely to the spirituall, but also to the temporall estates of most men; for under co<g ref="char:EOLhyphen"/>lour of Church lands they have injuriously seized into their hands, much of the best lands in every County, so that there is scarce a Gentleman of any worth, whom they have not bereaved of some part of his inheritance, few daring to op<g ref="char:EOLhyphen"/>pose their unjust demands; and if any did, yet none able to maintaine their just titles, against their power and oppression.</item>
+                  <item>31 By their wayes have they enivated and un<g ref="char:EOLhyphen"/>done many families, destroyed and cast away thousands of soules, and moreover in their owne persons have beene a scandall to the Gospell, and
+<pb n="12" facs="tcp:64730:8"/>a stumbling blocke even to the common enemy, by their swearing, cursing, drunkennesse, Sab<g ref="char:EOLhyphen"/>bath-breaking, &amp;c. having such servants usually in their Families, as are the most prophane in the Kingdome, few others countenanced by them, but such, and if any seeme to be of an holy life, he is scorned and persecuted by them.</item>
+               </list>
+               <p>
+                  <hi>Thus they publishing and proclai<g ref="char:EOLhyphen"/>ming themselves the children of</hi> Ish<g ref="char:EOLhyphen"/>mael <hi>and</hi> E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>au, <hi>wee most humbly beseech you as the true sons of</hi> Israel <hi>to take order with them as God shall direct, whom wee shall ever pray to be ayding, and assistant unto you in this great and glorious worke of re<g ref="char:EOLhyphen"/>formation.</hi>
+               </p>
+               <p>FINIS.</p>
+               <pb facs="tcp:64730:8"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
